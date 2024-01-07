@@ -1,13 +1,12 @@
-
-
-###
-
-<h1 align="center">Hi 👋! I'm Hüseyin Ardıl Karasungur</h1>
+<h2 align="center">Hi 👋! I'm Hüseyin Ardıl Karasungur</h2>
 
 ###
 
-<p align="left">
-  📚  I'm currently learning Kotlin<br><br> 💬 Ask me about Java, C++, C#, Html, Css and Js</p>
+<p align="center">A passionate Software Developer</p>
+
+###
+
+<p align="left">🔭I’m currently working on [Streaming Service](https://github.com/karasungurhuseyinardil/StreamingService)<br><br>📚  I'm currently learning Kotlin<br><br> 💬 Ask me about Java, C++, C#, Html, Css and Js<br><br>📫 How to reach me **karasungurhuseyinardil@gmail.com**</p>
 
 ###
 
@@ -47,9 +46,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/huseyinardilkarasungur/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="karasungurhuseyinardil@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@karasungurhuseyinardil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
