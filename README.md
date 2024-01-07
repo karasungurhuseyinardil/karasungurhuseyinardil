@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+/*<p align="left">Connect with me:</p>*/
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Languages and Tools:</p>
+/*<p align="left">Languages and Tools:</p>*/
 
 ###
 
