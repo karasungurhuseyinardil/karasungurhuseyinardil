@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on [StreamingService](https://github.com/karasungurhuseyinardil/StreamingService)
+<p align="left">
   <br><br>📚  I'm currently learning Kotlin<br><br> 💬 Ask me about Java, C++, C#, Html, Css and Js</p>
 
 ###
