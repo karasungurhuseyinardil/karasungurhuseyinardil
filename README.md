@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  <br><br>📚  I'm currently learning Kotlin<br><br> 💬 Ask me about Java, C++, C#, Html, Css and Js</p>
+  📚  I'm currently learning Kotlin<br><br> 💬 Ask me about Java, C++, C#, Html, Css and Js</p>
 
 ###
 
