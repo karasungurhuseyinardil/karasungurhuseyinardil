@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! I'm Hüseyin Ardıl Karasungur</h2>
+<h1 align="center">Hi 👋! I'm Hüseyin Ardıl Karasungur</h1>
 
 ###
 
