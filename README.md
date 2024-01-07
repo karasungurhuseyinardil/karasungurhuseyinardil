@@ -5,8 +5,13 @@
 <p align="center">A passionate Software Developer</p>
 
 ###
+- 🔭 I’m currently working on [Streaming Service](https://github.com/karasungurhuseyinardil/StreamingService)
 
-<p align="left">- 🔭 I’m currently working on [Streaming Service](https://github.com/karasungurhuseyinardil/StreamingService)<br><br>- 🌱 I’m currently learning **Kotlin**<br><br>- 💬 Ask me about **Java, C++, C#, Html, Css and Js**<br><br>- 📫 How to reach me **karasungurhuseyinardil@gmail.com**</p>
+- 🌱 I’m currently learning **Kotlin**
+
+- 💬 Ask me about **Java, C++, C#, Html, Css and Js**
+
+- 📫 How to reach me **karasungurhuseyinardil@gmail.com**
 
 ###
 
