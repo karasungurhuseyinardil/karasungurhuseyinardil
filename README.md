@@ -1,4 +1,4 @@
-<p align="center">Junior Software Developer</p>
+
 
 ###
 
