@@ -7,7 +7,7 @@
 ###
 - 🔭 I’m currently working on [Streaming Service](https://github.com/karasungurhuseyinardil/StreamingService)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, C++, C#, Html, Css and Js**
 
