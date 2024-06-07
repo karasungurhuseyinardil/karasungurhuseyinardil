@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, C++, C#, Html, Css and Js**
+- 💬 Ask me about **Java, C++, C#, PHP, Html, Css and Js**
 
 - 📫 How to reach me **karasungurhuseyinardil@gmail.com**
 
