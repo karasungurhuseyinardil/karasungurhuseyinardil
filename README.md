@@ -69,9 +69,17 @@
 </div>
 <br>
 <br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=karasungurhuseyinardil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karasungurhuseyinardil&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karasungurhuseyinardil&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karasungurhuseyinardil&" alt="Streak Stats" />
+</p>
+
 
 ###
 
