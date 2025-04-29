@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, C++, C#, PHP, Html, Css and Js**
-
+- 💬 Ask me about **Java, Spring, .NET, C++, PHP, Html, Css and Js**
 - 📫 How to reach me **karasungurhuseyinardil@gmail.com**
 
 ###
@@ -41,10 +40,7 @@
 <div align="left">
 
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
