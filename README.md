@@ -5,11 +5,11 @@
 <p align="center">A passionate Software Developer</p>
 
 ###
-- 🔭 I’m currently working on [E-Commerce Application](https://github.com/karasungurhuseyinardil/E-Commerce-Application)
+- 🔭 I’m currently working on [Author Classification Using Text Mining and Machine Learning Techniques](https://github.com/karasungurhuseyinardil/Author-Classification-Using-Text-Mining-and-Machine-Learning-Techniques)
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, Spring, .NET, C++, PHP, Html, Css and Js**
+- 💬 Ask me about **Java, Spring, .NET,Python, C++, PHP, Html, Css and Js**
 - 📫 How to reach me **karasungurhuseyinardil@gmail.com**
 
 ###
