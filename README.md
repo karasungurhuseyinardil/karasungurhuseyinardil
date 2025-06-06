@@ -7,7 +7,7 @@
 ###
 - 🔭 I’m currently working on [Author Classification Using Text Mining and Machine Learning Techniques](https://github.com/karasungurhuseyinardil/Author-Classification-Using-Text-Mining-and-Machine-Learning-Techniques)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Java, Spring, .NET,Python, C++, PHP, Html, Css and Js**
 - 📫 How to reach me **karasungurhuseyinardil@gmail.com**
