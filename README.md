@@ -66,12 +66,6 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karasungurhuseyinardil&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/karasungurhuseyinardil/karasungurhuseyinardil/output/snake.svg" alt="Snake animation" />
